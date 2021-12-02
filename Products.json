@@ -1,0 +1,71 @@
+{
+  "Products":
+  [
+    {"ProductID":1,
+    "ProductName":"Brown Sugar Milk Tea",
+    "ProductDescription":"Milk tea BS",
+    "ProductImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea1.gif",
+    "ProductPrice":"$5.50",
+    "ProductSite":"https://mogeteeusa.com/",
+    "ProductAddress":"6122-B Arlington Blvd, Falls Church, VA 22044"},
+    
+    {"ProductID":2,
+    "ProductName":"Flower Green Tea with Cream Cheese Foam",
+    "ProductDescription":"Flower Green Tea with Cream Cheese Foam",
+    "ProductImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea2.gif",
+    "ProductPrice":"$5.50",
+    "ProductSite":"https://www.bobapopdmv.com/",
+    "ProductAddress":"2831 Gallows Rd, Falls Church, VA 22042"},
+    
+    {"ProductID":3,
+    "ProductName":"Royal Ceylon Milk Tea with Tiramisu Cream",
+    "ProductDescription":"Royal Ceylon Milk Tea with Tiramisu Cream",
+    "ProductImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "ProductPrice":"$5.25",
+    "ProductSite":"https://www.tan-cha.net/",
+    "ProductAddress":"6920-A Braddock Rd, Annandale, VA 22003"},
+    
+    {"ProductID":4,
+    "ProductName":"Sea Salt Jasmine Tea",
+    "ProductDescription":"Sea Salt Jasmine TeaS",
+    "ProductImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+    "ProductPrice":"$4.50",
+    "ProductSite":"https://teasnyou.com/",
+    "ProductAddress":"8032 Leesburg Pike, Vienna, VA 22182"},
+    
+    {"ProductID":5,
+    "ProductName":"Tea Cube Milk Tea",
+    "ProductDescription":"Tea Cube Milk Tea",
+    "ProductImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+    "ProductPrice":"$5.50",
+    "ProductSite":"http://www.bengongsteausa.com/",
+    "ProductAddress":"14260F Centreville Square, Centreville, VA 20121"},
+    
+    {"ProductID":6,
+    "ProductName":"Green Milk Tea",
+    "ProductDescription":"Green Milk tea",
+    "ProductImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+    "ProductPrice":"$4.50",
+    "ProductSite":"https://www.gongchausa.com/",
+    "ProductAddress":"4230 Annandale Rd #160, Annandale, VA 22003"},
+    
+    {"ProductID":7,
+    "ProductName":"Passion Fruit Green Tea",
+    "ProductDescription":"Passion Fruit Green Tea",
+    "ProductImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+    "ProductPrice":"$4.50",
+    "ProductSite":"https://www.teadonova.com/",
+    "ProductAddress":"7031 Little River Turnpike #14C, Annandale, VA 22003"},
+    
+    {"ProductID":8,
+    "ProductName":"Sea Salt Coffee",
+    "ProductDescription":"Sea Salt Coffee",
+    "ProductImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+    "ProductPrice":"$4.75",
+    "ProductSite":"https://teadmlounge.com/",
+    "ProductAddress":"4230 Annandale Rd #160, Annandale, VA 22003"}
+    
+    
+  ],
+  "Status":"OK"
+}
