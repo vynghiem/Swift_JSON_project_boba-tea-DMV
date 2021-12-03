@@ -12,14 +12,14 @@
     "QuestionTopic":"General",
     "QuestionContent":"Which restaurant has a clown as its mascot?",
     "QuestionAnswer":"McDonald's",
-    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea1.gif",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea2.gif",
     "QuestionSite":"https://en.wikipedia.org/wiki/Ronald_McDonald"},
     
     {"QuestionID":"Question 3",
     "QuestionTopic":"General",
     "QuestionContent":"What is the total amount of Bitcoins that can be mined?",
     "QuestionAnswer":"21 million",
-    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea1.gif",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
     "QuestionSite":"https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/"}
     
   ],
