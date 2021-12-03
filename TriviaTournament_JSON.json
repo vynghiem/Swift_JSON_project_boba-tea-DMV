@@ -1,0 +1,54 @@
+{
+  "Question":
+  [
+    {"QuestionID":"Question 1",
+    "QuestionTopic":"Brown Sugar Milk Tea",
+    "QuestionContent":"Which store has the best Brown Sugar Milk Tea?",
+    "QuestionAnswer":"Moge Tee: 6122-B Arlington Blvd, Falls Church, VA 22044",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea1.gif",
+    "QuestionSite":"https://mogeteeusa.com/"},
+    
+    {"QuestionID":"Question 2",
+    "QuestionTopic":"Flower Green Tea with Cream Cheese Foam",
+    "QuestionContent":"Which store has the best Flower Green Tea with Cream Cheese Foam?",
+    "QuestionAnswer":"Boba Pop: 2831 Gallows Rd, Falls Church, VA 22042",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea2.gif",
+    "QuestionSite":"https://www.bobapopdmv.com/"},
+    
+    {"QuestionID":"Question 3",
+    "QuestionTopic":"Royal Ceylon Milk Tea with Tiramisu Cream",
+    "QuestionContent":"Which store has the best Royal Ceylon Milk Tea with Tiramisu Cream?",
+    "QuestionAnswer":"Tan-cha: 6920-A Braddock Rd, Annandale, VA 22003",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "QuestionSite":"https://www.tan-cha.net/"},
+    
+    {"QuestionID":"Question 4",
+    "QuestionTopic":"Sea Salt Jasmine Tea",
+    "QuestionContent":"Which store has the best Sea Salt Jasmine Tea?",
+    "QuestionAnswer":"Teas&You: 8032 Leesburg Pike, Vienna, VA 22182",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "QuestionSite":"https://teasnyou.com/"},
+    
+    {"QuestionID":"Question 5",
+    "QuestionTopic":"Green Milk Tea",
+    "QuestionContent":"Which store has the best Green Milk Tea?",
+    "QuestionAnswer":"GongCha: 4230 Annandale Rd #160, Annandale, VA 22003",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "QuestionSite":"https://www.gongchausa.com/"},
+    
+    {"QuestionID":"Question 6",
+    "QuestionTopic":"Passion Fruit Green Tea",
+    "QuestionContent":"Which store has the best Passion Fruit Green Tea?",
+    "QuestionAnswer":"Tea-Do: 7031 Little River Turnpike #14C, Annandale, VA 22003",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "QuestionSite":"https://www.teadonova.com/"},
+    
+    {"QuestionID":"Question 7",
+    "QuestionTopic":"Sea Salt Coffee",
+    "QuestionContent":"Which store has the best Sea Salt Coffee?",
+    "QuestionAnswer":"TeaDM: 4230 Annandale Rd #160, Annandale, VA 22003",
+    "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
+    "QuestionSite":"https://teadmlounge.com/"}
+  ],
+  "Status":"OK"
+}
