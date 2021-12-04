@@ -38,3 +38,33 @@ if let noteLocation = note.location {
         
         } // end if location != nil
         
+        
+
+import CoreLocation
+
+var geocoder = CLGeocoder()
+geocoder.geocodeAddressString("your address") {
+    placemarks, error in
+    let placemark = placemarks?.first
+    let lat = placemark?.location?.coordinate.latitude
+    let lon = placemark?.location?.coordinate.longitude
+    print("Lat: \(lat), Lon: \(lon)")
+}
+
+
+let address = "1 Infinite Loop, Cupertino, CA 95014"
+
+    let geoCoder = CLGeocoder()
+    geoCoder.geocodeAddressString(address) { (placemarks, error) in
+        guard
+            let placemarks = placemarks,
+            let location = placemarks.first?.location
+        else {
+            // handle no location found
+            return
+        }
+
+        // Use your location
+    }
+    
+    
