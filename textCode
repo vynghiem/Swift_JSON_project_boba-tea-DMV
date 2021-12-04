@@ -1,0 +1,40 @@
+if let noteLocation = note.location {
+            
+        // the code block below shows an annotation red pin of the note location
+        // convert note location address to coordinate and annotate it on map
+        let geoCoder = CLGeocoder()
+        geoCoder.geocodeAddressString(noteLocation, completionHandler: {
+            placemarks, error in
+            
+            if error != nil {print(error!); return}
+            
+            if let placemarks = placemarks { // array of placemarks (geocodes/coordinates of address)
+                // get first placemark
+                let placemark = placemarks[0]
+                // add annotation
+                let annotation = MKPointAnnotation()
+                annotation.title = self.note.location
+                annotation.subtitle = self.note.folderName
+                
+                if let location = placemark.location {
+                    annotation.coordinate = location.coordinate
+                    // display annotation
+                    self.mapView.showAnnotations([annotation], animated: true) // show pin
+                    self.mapView.selectAnnotation(annotation, animated: true) // show buble
+                } // end if location
+             } // end if placemarks
+          }     // end completion handler
+        ) // end geoCoder
+        // end cafe annotation pin code block
+        
+        // use the NoteMapVC (self) as a delegate to MKMapViewDelegate to customize the annotation by adding the note image to the callout buble
+        
+        mapView.delegate = self
+        
+        // the following 3 lines are optional but can show more info on the map
+        mapView.showsCompass = true
+        mapView.showsScale = true
+        mapView.showsTraffic = true
+        
+        } // end if location != nil
+        
