@@ -5,6 +5,8 @@
     "QuestionTopic":"Brown Sugar Milk Tea",
     "QuestionContent":"Where is the store with the best Brown Sugar Milk Tea?",
     "QuestionAnswer":"6122-B Arlington Blvd, Falls Church, VA 22044",
+    "QuestionLat":38.869810,
+    "QuestionLon":-77.145310, 
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea1.gif",
     "QuestionSite":"https://mogeteeusa.com/"},
     
@@ -12,6 +14,8 @@
     "QuestionTopic":"Flower Green Tea with Cream Cheese Foam",
     "QuestionContent":"Where is the store with the best Flower Green Tea with Cream Cheese Foam?",
     "QuestionAnswer":"2831 Gallows Rd, Falls Church, VA 22042",
+    "QuestionLat":38.8737973,
+    "QuestionLon":-77.2251804,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea2.gif",
     "QuestionSite":"https://www.bobapopdmv.com/"},
     
@@ -19,6 +23,8 @@
     "QuestionTopic":"Royal Ceylon Milk Tea with Tiramisu Cream",
     "QuestionContent":"Where is the store with the best Royal Ceylon Milk Tea with Tiramisu Cream?",
     "QuestionAnswer":"6920-A Braddock Rd, Annandale, VA 22003",
+    "QuestionLat":38.8119657,
+    "QuestionLon":-77.1845099,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea3.gif",
     "QuestionSite":"https://www.tan-cha.net/"},
     
@@ -26,6 +32,8 @@
     "QuestionTopic":"Sea Salt Jasmine Tea",
     "QuestionContent":"Where is the store with the best Sea Salt Jasmine Tea?",
     "QuestionAnswer":"8032 Leesburg Pike, Vienna, VA 22182",
+    "QuestionLat":38.913841,
+    "QuestionLon":-77.222923,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea4.gif",
     "QuestionSite":"https://teasnyou.com/"},
     
@@ -33,6 +41,8 @@
     "QuestionTopic":"Green Milk Tea",
     "QuestionContent":"Where is the store with the best Green Milk Tea?",
     "QuestionAnswer":"4230 Annandale Rd #160, Annandale, VA 22003",
+    "QuestionLat":38.831299,
+    "QuestionLon":-77.196991,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea5.gif",
     "QuestionSite":"https://www.gongchausa.com/"},
     
@@ -40,6 +50,8 @@
     "QuestionTopic":"Passion Fruit Green Tea",
     "QuestionContent":"Where is the store with the best Passion Fruit Green Tea?",
     "QuestionAnswer":"7031 Little River Turnpike #14C, Annandale, VA 22003",
+    "QuestionLat":38.828360,
+    "QuestionLon":-77.189030,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea6.gif",
     "QuestionSite":"https://www.teadonova.com/"},
     
@@ -47,6 +59,8 @@
     "QuestionTopic":"Sea Salt Coffee",
     "QuestionContent":"Where is the store with the best Sea Salt Coffee?",
     "QuestionAnswer":"4230 Annandale Rd #160, Annandale, VA 22003",
+    "QuestionLat":38.831300,
+    "QuestionLon":-77.196990,
     "QuestionImage":"https://raw.githubusercontent.com/vynghiem/Swift_JSONproject_IT315/Swift_JSONproject_IT315/tea7.gif",
     "QuestionSite":"https://teadmlounge.com/"}
   ],
